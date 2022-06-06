@@ -1,0 +1,25 @@
+#navbar{
+    display: flex;
+    border: 1px solid red;
+    margin: auto;
+    background-color: teal;
+}
+a{
+    margin-left: 80%;
+    margin-top: 20px;
+}
+h3{
+    margin-left: 20px;
+}
+input{
+    line-height: 30px;
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 600px;
+    background-color: aquamarine;
+}
+#submit{
+    margin-top: 20px;
+    margin-left: 600px;
+    padding: 20px;
+}
